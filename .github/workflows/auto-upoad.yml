@@ -50,6 +50,11 @@ jobs:
       - name: Export Modpack
         run: packwiz modrinth export --pack-file $GITHUB_WORKSPACE/pack.toml
 
+      
+      - name: Grab repo path
+        id: grab_repo
+        run: echo "repo_path=${GITHUB_WORKSPACE}" >> $GITHUB_OUTPUT
+
       - name: Modrinth Releaser
         # You may pin to the exact commit or the version.
         # uses: dsx137/modrinth-releaser@b3fd2ced39e8cac25f7435028a46e60706bd2be6
@@ -64,7 +69,7 @@ jobs:
           # The game versions this mod is compatible with
           game_versions: ${{ steps.pack_mc.outputs.value }}
           # The files to upload
-          files: $GITHUB_WORKSPACE/${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}.mrpack
+          files: ${{ steps.grab_repo.outputs.repo_path }}/${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}.mrpack
           # The name of this version. Defaults to version number.
           name: ${{ steps.pack_name.outputs.value }} ${{ steps.pack_version.outputs.value }}
           # The loaders this version is compatible with.
