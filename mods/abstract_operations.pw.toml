@@ -1,0 +1,13 @@
+name = "Abstract Operations"
+filename = "abstract_operations-1.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cHG5nudH/versions/qdPc6UT9/abstract_operations-1.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "a33a79fe8b999e711800fb11c2741ef8396be7e244603b18a334b7f96fb73790d31f82d0bd525e72f7fdd74c7434f3ba881e70906050d264abbc9ae8f8e2c8f6"
+
+[update]
+[update.modrinth]
+mod-id = "cHG5nudH"
+version = "qdPc6UT9"

@@ -1,0 +1,13 @@
+name = "Create: Sweets & Treats"
+filename = "create_snt-2.0 WITH-APPLE-SYRUP.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FS7yzdnX/versions/XnJHBvU7/create_snt-2.0%20WITH-APPLE-SYRUP.jar"
+hash-format = "sha512"
+hash = "2f7ffc36af0d1faa309c33d94c2a87e1ba9e970bb98ee8f39ab8bc67f41eb62643148ff4adc3e78768f8749fd7920969a8eb6bdc2e93e05b9c22ae450294b79f"
+
+[update]
+[update.modrinth]
+mod-id = "FS7yzdnX"
+version = "XnJHBvU7"

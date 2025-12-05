@@ -1,0 +1,13 @@
+name = "Hoofprint"
+filename = "hoofprint-0.7.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8O6iJpuJ/versions/OoBpn34N/hoofprint-0.7.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "ddd6485adc7dd9027a7d770c684a907d8da0259d350903adb2530be1bf964dbaa51af89d2587e8e38d171affb9725a7a3e16540e1e23e12408a680466425f98d"
+
+[update]
+[update.modrinth]
+mod-id = "8O6iJpuJ"
+version = "OoBpn34N"

@@ -1,0 +1,13 @@
+name = "RPG Skills"
+filename = "mcrpg-skills-0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pqXVhZh7/versions/oTJzzQUe/mcrpg-skills-0.9.jar"
+hash-format = "sha512"
+hash = "35a5d288e58bafa96a2373d3f9d18ed054ff89f399f1c3622721e6dc6119ffd5db4e6986cf28a6a8533d0715a34e94e97fda77b4e50e62118ffeb136e906b8f4"
+
+[update]
+[update.modrinth]
+mod-id = "pqXVhZh7"
+version = "oTJzzQUe"
