@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "b6c9c9f6a320d94ecde0ef13c02c1f64fa19d7749e9ee3d8c2051461b7f1584f"
+
+[[files]]
 file = "mods/abstract_operations.pw.toml"
 hash = "e1ad09c708d35fb351924dddb5044c08de0508c20ce5df1800351ae3c3773e5e"
 metafile = true
