@@ -1,12 +1,12 @@
 name = "Hex Creator"
 author = "Teal Wolf 25"
-version = "4.0.1"
+version = "4.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c47df59b217411cfd608bd7b526d6657f9fa92a560c5d07e29ffa8fb2d81363c"
+hash = "a7f03b87aa8728dfc961c05ffe0ac53bccd9a928e65ae75a0c49051de392790e"
 
 [versions]
 fabric = "0.18.1"

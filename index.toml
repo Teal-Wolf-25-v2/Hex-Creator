@@ -30,6 +30,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "0807a82024947b6ab32fe32fa8ccabb78a2857abb335066619e3b78a1c90658c"
+metafile = true
+
+[[files]]
 file = "mods/attributes.pw.toml"
 hash = "3d35d0d10e4c486cfec61cb6fade31999ae592ceb51b1d3830681794b92e67fd"
 metafile = true
