@@ -1,0 +1,13 @@
+name = "HexThings"
+filename = "hexthings-fabric-0.1.5.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRBPvIjK/versions/yw8jnFC2/hexthings-fabric-0.1.5.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "bfe17f16042d3306def2687d21331fd0bb2019e6e0fc096817a8f08eb454ed05d49e28ad4292481730b487f2bacf515f91029c8cfa8dc08f5c7d516402058e7a"
+
+[update]
+[update.modrinth]
+mod-id = "uRBPvIjK"
+version = "yw8jnFC2"
