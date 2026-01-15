@@ -321,11 +321,6 @@ hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
-metafile = true
-
-[[files]]
 file = "mods/gravity-api-fork.pw.toml"
 hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
@@ -817,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/yaha.pw.toml"
 hash = "21a499e88959df2a37848f21612c6cfd525abc8ed47466bd78f9fde98499095c"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
