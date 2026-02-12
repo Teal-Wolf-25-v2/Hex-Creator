@@ -700,11 +700,6 @@ hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
-file = "mods/polysit.pw.toml"
-hash = "2322b973d779734dd297f080b20d25bea5986a0e280b2fe90502d570e387b8c3"
-metafile = true
-
-[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
 metafile = true
