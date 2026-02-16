@@ -602,9 +602,8 @@ hash = "e4504a53ae99081661200af3420676ed09ed31a9a4a17fb3a2039d6bf13b209e"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas.pw.toml"
-hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
-metafile = true
+file = "mods/moreiotas-fabric-1.20.1-0.1.1.jar"
+hash = "8aa0eb6be1c80d76fe0d115caeefa767a9c2a3d6a09f042301cde3eb58e1fb18"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
