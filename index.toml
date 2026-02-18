@@ -394,6 +394,11 @@ hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
 metafile = true
 
 [[files]]
+file = "mods/hexflow.pw.toml"
+hash = "10213b37c85e0d1d78e18326d65b192b6ee1e297209af4e9f9a1a8d380677e0b"
+metafile = true
+
+[[files]]
 file = "mods/hexgender.pw.toml"
 hash = "5c00a6d637f656ec5386b039db2271b0433f79ef137d2c29cd95279a618b737b"
 metafile = true
