@@ -558,9 +558,8 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks.pw.toml"
-hash = "bf7ca47d2dbf5e717e2e31b05cda0e05d0674ddf39d1119c979c3a71b61771ac"
-metafile = true
+file = "mods/lapisworks-1.5.8-beta.5-stoplogspam.jar"
+hash = "d1fcf3d69f6e56b57e01b172ab317a593b602c829ef3cfe9774def5353161bb3"
 
 [[files]]
 file = "mods/lithium.pw.toml"
