@@ -1,6 +1,6 @@
-name = "Hex Creator"
+name = "Hexwoven"
 author = "Teal Wolf 25"
-version = "4.3.2"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
