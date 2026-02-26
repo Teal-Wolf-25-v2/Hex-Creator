@@ -1,0 +1,13 @@
+name = "Hexcellular"
+filename = "hexcellular-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mN6t9Bt4/versions/xRObOFds/hexcellular-1.1.0.jar"
+hash-format = "sha512"
+hash = "2a88e46bbeb0351b290b34a16c0c059bb661fdac227388d353ce8f2c2d536f5715f2a616086efa94f46bd8626b40054ddd70122f357d9980a7bc83801660b142"
+
+[update]
+[update.modrinth]
+mod-id = "mN6t9Bt4"
+version = "xRObOFds"
