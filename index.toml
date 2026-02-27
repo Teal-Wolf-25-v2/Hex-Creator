@@ -29,6 +29,11 @@ hash = "f2a3d2af3f3ec8ed1bcdd436a76d89ec9655f20809c2274cb1be5392bb3e904e"
 metafile = true
 
 [[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "526442c47ba82b999b269a20b865435de668c864068adcf1606deb33a20f9624"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
@@ -104,6 +109,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "fd5b977c47d226c54cc7f90bef30138837c64da9c7b67985b5fc2dcaaeec0ce1"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "0ddc386e8216df00c0f15e3c6f89e4b295e90722f4cb3fe09baa47e733045727"
 metafile = true
@@ -163,11 +173,6 @@ hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
 
 [[files]]
-file = "mods/default-skill-trees.pw.toml"
-hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
 metafile = true
@@ -180,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trim.pw.toml"
+hash = "fdb6b0c601748b7643b7bfa1a9e1ff00902bf3884eed303b0a8f0684fea98620"
 metafile = true
 
 [[files]]
@@ -239,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
+metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
@@ -529,6 +544,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "60dd0c8cd8ee5c017041e5d15106aa1cb96fad82ac6ddd1a297d8d7d4fe4e2dd"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
 metafile = true
@@ -587,6 +607,11 @@ hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
 metafile = true
 
 [[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "416b46fc5c69d7ca02932d2723c1240e6a6148b1dcca0e8e0be094ab6c156b5d"
+metafile = true
+
+[[files]]
 file = "mods/passengersportalfix.pw.toml"
 hash = "06d5e7bc07170d796895cd1f6b2633db0d81e910e05124b2240cd013e27ee505"
 metafile = true
@@ -614,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/phlexiful.pw.toml"
 hash = "6c12c8bf3a6b4ce0eff470be2941afead60953d23a09152d0e0c54c1bad4ed1f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "3c5a5fe2267f93188d7e41f7a06ea09a64b40224b90f601e42cf666c16f12268"
 metafile = true
 
 [[files]]
@@ -657,8 +687,18 @@ hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
+metafile = true
+
+[[files]]
 file = "mods/scryglass-1.0.0-6c096fb.jar"
 hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
+metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -673,11 +713,6 @@ metafile = true
 [[files]]
 file = "mods/simplymore.pw.toml"
 hash = "7351e582d562ba9dc5ba3fb8c6906d831569ba0e55002f8ca8c6744898d9c84a"
-metafile = true
-
-[[files]]
-file = "mods/skills.pw.toml"
-hash = "b7d42815e5f369c0dece3560b6d27b8dd80a69d59bb49f30b0c21673211ee033"
 metafile = true
 
 [[files]]
@@ -698,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
+metafile = true
+
+[[files]]
+file = "mods/soundsbegone.pw.toml"
+hash = "e2a0ef3c8fc40d293836b0e0cb90df545f57c5f5220537d3e8adecf83c334b14"
 metafile = true
 
 [[files]]
@@ -746,6 +786,11 @@ hash = "66c4b20e8ba9916a0e84e05a00d6cb54c6dc2d6fc5cebbf0263a9103d06ae9df"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "68586ae904f1cb0d0c914f8be6258c4d2a20e6b28cd0a07fc4940adba7dbc22f"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
 metafile = true
@@ -778,6 +823,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/bare-metals.pw.toml"
 hash = "76fc515811ae4f6230e40a734e11d1dd7e0da7b09dd1db776fe44d60a1acb8bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/barebones-x-particle-effects.pw.toml"
+hash = "047ab151aba08f1da2db783c11cc48c275cde4724c2bcbe56a2b866670567794"
 metafile = true
 
 [[files]]
