@@ -73,7 +73,7 @@
       "shears": "✂",
       "bucket": "🪣",
       "bell": "🔔",
-      "item": "[[show:hand]%player:equipment_slot mainhand%]",
+      "item": "[%player:equipment_slot mainhand%]",
       "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
     },
     "custom_message_types": {}
@@ -84,12 +84,13 @@
         "type": "operator",
         "operator": 2
       },
-      "display_name": "<dark_gray>[</dark_gray>[item!nether_star]<#007f7f>Admin</#007f7f><dark_gray>]</dark_gray> ${vanillaDisplayName}",
+      "display_name": "<dark_gray>[</dark_gray><c:#007f7f>Admin</c><dark_gray>]</dark_gray> ${default}",
       "message_formats": {
-        "chat": "${player} <#007f7f>»</#007f7f> <#94ffff>${message}"
+        "chat": "${player} <c:#007f7f>»</c> <#94ffff>${message}"
       },
       "formatting": {},
-      "emoticons": {}
+      "emoticons": {},
+      "custom_message_types": {}
     }
   ]
 }
