@@ -5,6 +5,34 @@ file = "LICENSE"
 hash = "b6c9c9f6a320d94ecde0ef13c02c1f64fa19d7749e9ee3d8c2051461b7f1584f"
 
 [[files]]
+file = "config/creeper-healing.toml"
+hash = "235802d203ceedee82584a58ffd43996a5170d552b3f9e00671323671a39d162"
+
+[[files]]
+file = "config/fabrictailor.json"
+hash = "5d86b7a8e8dc187300c0a8dd5c40e5d8a64c2a059b7fe419d8eb808a1afa4e16"
+
+[[files]]
+file = "config/hexcasting/server.json"
+hash = "0005fe65669e013036f46abfdb070d52a7d413ff8640a7f15b548052c1786fa6"
+
+[[files]]
+file = "config/immersive_melodies.json"
+hash = "4438b404d1b94a8b748357a077bbd8c209053254549dcc0f4d4e059e95a1971f"
+
+[[files]]
+file = "config/serverpause-common.toml"
+hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "89f469376f2c315fc6a9146d42f4bba6aa21330be2a6dd45c394a23658a101e9"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "af82b4ff051e7f383b5ca34a12a329ffca7a8366a20caf972df535afcb149a23"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"
 hash = "bc54ff6164bae38d0529a527c4da54fbc8455e6230fc923186cfd0bc2b42b371"
 
@@ -524,6 +552,10 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
+file = "mods/lapisworks-1.5.8-beta.5-stoplogspam.jar"
+hash = "d1fcf3d69f6e56b57e01b172ab317a593b602c829ef3cfe9774def5353161bb3"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
@@ -537,6 +569,10 @@ metafile = true
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
+
+[[files]]
+file = "mods/mod-tools-1.1.5+1.20.1.jar"
+hash = "daf4bdc48ea74803bbf1b50cf41ea22680c1cc6e207b7fcb97510999f17a27e6"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
