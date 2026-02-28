@@ -74,7 +74,13 @@
       "bucket": "🪣",
       "bell": "🔔",
       "item": "[%player:equipment_slot mainhand%]",
-      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
+      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
+      "MIN_LONG": "-9,223,372,036,854,775,808 (-9.22Q) (-2^63)",
+      "MAX_LONG": "9,223,372,036,854,775,807 (9.22Q) (2^63-1)",
+      "MIN_INT": "-2,147,483,648 (-2.14b) (-2^31)",
+      "MAX_INT": "-2,147,483,647 (2.14b) (2^31-1)",
+      "MIN_SHORT": "-32,768 (-32.7k) (-2^15)",
+      "MAX_SHORT": "32,767 (32.7k) (2^15-1)"
     },
     "custom_message_types": {}
   },

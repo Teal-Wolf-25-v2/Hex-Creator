@@ -14,7 +14,7 @@ hash = "5d86b7a8e8dc187300c0a8dd5c40e5d8a64c2a059b7fe419d8eb808a1afa4e16"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "0005fe65669e013036f46abfdb070d52a7d413ff8640a7f15b548052c1786fa6"
+hash = "0a818c9e68d48ce7960e8e86eb649946c80388aed00ea9ff58e20219f519d177"
 
 [[files]]
 file = "config/immersive_melodies.json"
@@ -26,7 +26,7 @@ hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "e96bb88eff0eed8fe8756a687df776f0ae6d1184e561fc1473d7b0f437c4da07"
+hash = "08dec9e15d517d06619967624bf5ebc44b210ee099489e6a9ec2f423454cae10"
 
 [[files]]
 file = "config/styled-nicknames.json"

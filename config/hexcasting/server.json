@@ -2,7 +2,7 @@
   "opBreakHarvestLevel": 3,
   "maxOpCount": 100000,
   "maxSpellCircleLength": 1024,
-  "actionDenyList": ["hexthingy:smite"],
+  "actionDenyList": ["hexthingy:smite","hexparse:compile"],
   "circleActionDenyList": [],
   "greaterTeleportSplatsItems": false,
   "villagersOffendedByMindMurder": true,
