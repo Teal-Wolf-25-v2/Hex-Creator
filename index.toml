@@ -354,6 +354,11 @@ hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
+metafile = true
+
+[[files]]
 file = "mods/gravity-api-fork.pw.toml"
 hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
