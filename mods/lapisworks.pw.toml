@@ -1,0 +1,8 @@
+name = "lapisworks"
+filename = "lapisworks-1.5.8-tryme.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Real-Luxof/Lapisworks/releases/download/v1.5.8-tryme/lapisworks-1.5.8-tryme.jar"
+hash-format = "sha256"
+hash = "73c830c3a7508c05431f47505bce6d944eaa918daf13fccc24289d90b87c6438"

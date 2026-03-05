@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "2801e258fc6e9b96900865e1dce5bc9167f01e993b8aad2672b5d671d3524bf8"
+hash = "c5f48712b804f39a35e1cf1be3c6eecdd1e2952c1c0cfab453a140e40fbe74c0"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpigmentplus.pw.toml"
-hash = "6f1ece0609f0bb13793aafafbb0297f7acda122542c3992a131676ca139b4de4"
+hash = "a1c7b5707e5faf360a39c96d2dc436680b6e114f907c5fca5cf1d32db4ff7867"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexthings.pw.toml"
-hash = "d95475e8ddf10848209862f577303ef3ce37a8e395eb9f5a528dd34d17cd6316"
+hash = "0b79fd93bfd185bf2d618cf6edf735a25a822580329d8a5511b92c186b19e624"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
+hash = "ed07c53deb483fd6cd8578803d91fe087435d8d81b317bd4fcbd1bb5d25d9022"
 metafile = true
 
 [[files]]
@@ -552,8 +552,9 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks-1.5.8-beta.5-stoplogspam.jar"
-hash = "d1fcf3d69f6e56b57e01b172ab317a593b602c829ef3cfe9774def5353161bb3"
+file = "mods/lapisworks.pw.toml"
+hash = "3dedf03f35d700b30eab07f14543399930ef88003b1016ad94e27202e8742f6f"
+metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -893,5 +894,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "f940659da755431e3fa1002682b40d7e5d7f88396db801ee3d538eb5a2b719f4"
+hash = "4fc7f37b65f44ae8ba65a06c9031a9c654c0c1ad993ccbf6f7822d5b7ea98d37"
 metafile = true
