@@ -1,8 +1,8 @@
 name = "lapisworks"
-filename = "lapisworks-1.5.8-tryme.jar"
+filename = "lapisworks-1.5.8-howdidthisoneevenhappen.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Real-Luxof/Lapisworks/releases/download/v1.5.8-tryme/lapisworks-1.5.8-tryme.jar"
+url = "https://github.com/Real-Luxof/Lapisworks/releases/download/v1.5.8-howdidthisoneevenhappen/lapisworks-1.5.8-howdidthisoneevenhappen.jar"
 hash-format = "sha256"
-hash = "73c830c3a7508c05431f47505bce6d944eaa918daf13fccc24289d90b87c6438"
+hash = "7ddd18976d58fc8b922fbb4b10aa6b84ff87d8edecf955082ead97638bb9ce3b"
