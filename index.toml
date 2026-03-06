@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Hexwoven-update-hexic-6853d645.git"
+hash = "9c99c39fdfd89f5adfb768359a4024a726a6562867569a801ce87f32528678f9"
+
+[[files]]
 file = "LICENSE"
 hash = "b6c9c9f6a320d94ecde0ef13c02c1f64fa19d7749e9ee3d8c2051461b7f1584f"
 
@@ -429,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "0e171cc6a5705529e3c8f8d4405f468c12fba42554245dbf7ef0f84d3757892b"
+hash = "7da0c0f207279d61d6f895d58e0fadbb1018f8c96863f86cecba37978aba2a39"
 metafile = true
 
 [[files]]
@@ -537,6 +541,11 @@ hash = "82d49e37ee8a4883be87a1cb5d8748f5a6bcfc758f4173b68f78f9e7caf989a7"
 metafile = true
 
 [[files]]
+file = "mods/iotaworks.pw.toml"
+hash = "fb8c8b1bf7bca287d3c9ddf4732323eb6e048e27e0b3b1631bcbdbef3f41d480"
+metafile = true
+
+[[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
@@ -574,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/jsonpatcher.pw.toml"
 hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
+metafile = true
+
+[[files]]
+file = "mods/krysztal-language-scala.pw.toml"
+hash = "8c3add343a166a3a40176f299c4e244bb877c9c903a9e101fb72a6e7f421808e"
 metafile = true
 
 [[files]]
@@ -711,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/phlexiful.pw.toml"
 hash = "6c12c8bf3a6b4ce0eff470be2941afead60953d23a09152d0e0c54c1bad4ed1f"
+metafile = true
+
+[[files]]
+file = "mods/phlib.pw.toml"
+hash = "24708afc94d3b031a3f802576c927c64acd38c51b76276b157c46cf4e1ea438e"
 metafile = true
 
 [[files]]
