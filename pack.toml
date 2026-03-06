@@ -1,12 +1,12 @@
 name = "Hexwoven"
 author = "Teal Wolf 25"
-version = "5.1.0"
+version = "5.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "26d8d8113770aefbcabc47ffe00b50877941f3d353487c74f71bd961bc90343a"
+hash = "93cfdbef7a19d3f72f03b8ceed248f9654decdbebcc4dd7781235a4a48f166f2"
 
 [versions]
 fabric = "0.18.4"

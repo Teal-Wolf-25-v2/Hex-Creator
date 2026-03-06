@@ -1,7 +1,6 @@
 name = "Hexic"
 filename = "hexic-2.0.0+6dc84e0.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://repo.pool.net.eu.org/pub/org/eu/net/pool/hexic/2.0.0+6dc84e0/hexic-2.0.0+6dc84e0.jar"

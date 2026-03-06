@@ -1,3 +1,3 @@
-# Hex-Creator
+# Hexwoven
 
-repo for the Hex Creator modpack now in packwiz format
+repo for the Hexwoven modpack now in packwiz format
