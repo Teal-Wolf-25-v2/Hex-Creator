@@ -303,6 +303,11 @@ file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
 [[files]]
+file = "mods/ephemera.pw.toml"
+hash = "442d01ebee947c4383de13fc207425cc73dabbb0dadc6f0e72d232b6ebb7032b"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
 metafile = true
@@ -497,12 +502,12 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "f6236aad590c52c01d7b076dc5b33489ca7c07b7c0a4820769097b43f0db3e5f"
+hash = "07c1abbd79fdc0eeb2e8bce84daaf7ff7297f2b9ec7a44cae6906b0ba8eb93ed"
 metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "fe8b903b37f162385797a10af49859b2225980c1d8c1d335172bf5d6b44692c4"
+hash = "c5527b981d57d48b3cb94ce79c2f223c5a62e84ac71c34b40d11c773ca838cd8"
 metafile = true
 
 [[files]]
