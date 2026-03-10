@@ -299,10 +299,6 @@ hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
 metafile = true
 
 [[files]]
-file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
-hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
-
-[[files]]
 file = "mods/ephemera.pw.toml"
 hash = "442d01ebee947c4383de13fc207425cc73dabbb0dadc6f0e72d232b6ebb7032b"
 metafile = true
