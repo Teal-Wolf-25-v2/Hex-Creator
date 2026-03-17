@@ -10,7 +10,7 @@ hash = "235802d203ceedee82584a58ffd43996a5170d552b3f9e00671323671a39d162"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a22705566a5dcdb20e9451ac0daacc6014640a2852b79a86797d53a81a8d7c63"
+hash = "7bf63598528e5ae0ffb59da018b57faf35cc4e573c18b9e9db112dddd0ee4971"
 
 [[files]]
 file = "config/fabrictailor.json"

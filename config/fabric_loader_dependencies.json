@@ -5,6 +5,16 @@
       "-depends": {
         "phlib": "*"
       }
+    },
+    "hexic": {
+      "-depends": {
+        "hexpose": ">=1.0.0"
+      }
+    },
+    "slate_work": {
+      "-depends": {
+        "hexpose": ">=1.0.0"
+      }
     }
   }
 }
