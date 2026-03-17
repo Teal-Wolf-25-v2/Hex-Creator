@@ -10,7 +10,7 @@ hash = "235802d203ceedee82584a58ffd43996a5170d552b3f9e00671323671a39d162"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7bf63598528e5ae0ffb59da018b57faf35cc4e573c18b9e9db112dddd0ee4971"
+hash = "a22705566a5dcdb20e9451ac0daacc6014640a2852b79a86797d53a81a8d7c63"
 
 [[files]]
 file = "config/fabrictailor.json"
@@ -30,7 +30,7 @@ hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "08dec9e15d517d06619967624bf5ebc44b210ee099489e6a9ec2f423454cae10"
+hash = "ed4dbb683930d731950934b6977e3c21bf5a957cfeb042becdc60bd2a9dcb5b0"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "c92c1ff6925ac157ffe7741a7a2f24b1d921a12b7ca4d69aa90db280012e3903"
+hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
 metafile = true
 
 [[files]]

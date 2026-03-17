@@ -97,6 +97,19 @@
       "formatting": {},
       "emoticons": {},
       "custom_message_types": {}
+    },
+    {
+      "require": {
+        "type": "permission",
+        "permission": "group.moderator"
+      },
+      "display_name": "<dark_gray>[</dark_gray><c:#00ff00>Moderator</c><dark_gray>]</dark_gray> ${default}",
+      "message_formats": {
+        "chat": "${player} <c:#007f7f>»</c> <#deffff>${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
     }
   ]
 }
