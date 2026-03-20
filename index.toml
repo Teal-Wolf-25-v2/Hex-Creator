@@ -18,7 +18,7 @@ hash = "5d86b7a8e8dc187300c0a8dd5c40e5d8a64c2a059b7fe419d8eb808a1afa4e16"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "0a818c9e68d48ce7960e8e86eb649946c80388aed00ea9ff58e20219f519d177"
+hash = "bc3d729cac5fb2fce054576b0f2f03a3484620561a268750d60698ae159d87ec"
 
 [[files]]
 file = "config/immersive_melodies.json"
