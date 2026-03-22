@@ -1,9 +1,7 @@
-name = "phlib-0.1.2+a3237c3.jar"
-filename = "phlib-0.1.2+a3237c3.jar"
-side = "both" # fabric dumb
-pin = true
+name = "PHLib"
+filename = "phlib-0.1.2+74cb23d.jar"
 
 [download]
-url = "https://repo.pool.net.eu.org/pub/org/eu/net/pool/phlib/0.1.2+a3237c3/phlib-0.1.2+a3237c3.jar"
+url = "https://repo.pool.net.eu.org/pub/org/eu/net/pool/phlib/0.1.2+74cb23d/phlib-0.1.2+74cb23d.jar"
 hash-format = "sha256"
-hash = "ece7588a9c806791e4a0bc72a44d62758c1f46fde295cacdf7d5b159b92cc061"
+hash = "322a7e7ec7cecfb16f8cb355c816f6fe9574e17947c1a04ac851439e2b2799f1"

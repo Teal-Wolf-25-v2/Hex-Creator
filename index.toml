@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexic.pw.toml"
-hash = "562dce972fec0be3553bb34b9bfd73a689c8b5a5c72e620251c185ba9b27da6b"
+hash = "6155ad3e0c9e517062227a86e0f34b0c84d45a026f0a8091a279229d9e2bc2e1"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/phlib.pw.toml"
-hash = "24708afc94d3b031a3f802576c927c64acd38c51b76276b157c46cf4e1ea438e"
+hash = "b894f8bd6a0dac75b9223f6ab46fb268fa37dfc3f1f5a537b7169079c4ae6742"
 metafile = true
 
 [[files]]
