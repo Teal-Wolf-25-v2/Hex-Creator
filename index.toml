@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+hash = "c92c1ff6925ac157ffe7741a7a2f24b1d921a12b7ca4d69aa90db280012e3903"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "4e047f8fdcb0f5da29472a6b5f0c6040fd8bc19ca8aa14f6a1bd73b51e83a94d"
+hash = "c7d8a046da68799538d1f5c510e5e92edc5cc80275e105086fa08f0086cb6287"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "a7d049e908ae3a826176135b6bd753925451fb74fe3fdbd4ec3372ead38ab224"
+hash = "ebb4088115a98bd1030774ee8763f06c69cc87ce7f1378562b1f2df2df3a38c2"
 metafile = true
 
 [[files]]
