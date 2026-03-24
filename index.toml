@@ -30,7 +30,7 @@ hash = "873a0c52467a90aed30fa95fc27a0ef0a48f1048eb7a428a59ddc0ea1e8672e3"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "ed4dbb683930d731950934b6977e3c21bf5a957cfeb042becdc60bd2a9dcb5b0"
+hash = "b929a0c367b1965a0b532c7c64a42cf92aebe400f1c789c6a9eeb678bae2d9cb"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -898,6 +898,11 @@ hash = "68586ae904f1cb0d0c914f8be6258c4d2a20e6b28cd0a07fc4940adba7dbc22f"
 metafile = true
 
 [[files]]
+file = "mods/switchy.pw.toml"
+hash = "b03e78f87681ad57e29e27cfb6f791f8d54d91c8df1936efeba71248454467f7"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
 metafile = true
@@ -966,3 +971,11 @@ metafile = true
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "4fc7f37b65f44ae8ba65a06c9031a9c654c0c1ad993ccbf6f7822d5b7ea98d37"
 metafile = true
+
+[[files]]
+file = "world/datapacks/hex-compat/data/hexcasting/switchy_components/pigment.json"
+hash = "220539c16df5321709140b83a63f5f8bba3d48537b6267797443157b8665934c"
+
+[[files]]
+file = "world/datapacks/hex-compat/pack.mcmeta"
+hash = "7bfee0009653d72f82e835e796e8e88f05784f38d4ef1003f3f23dbd18f95d2c"
