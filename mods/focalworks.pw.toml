@@ -1,0 +1,13 @@
+name = "Focalworks"
+filename = "focalworks-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJYNkYPJ/versions/bJ1gmvnK/focalworks-1.1.2.jar"
+hash-format = "sha512"
+hash = "d358e5dccf20645491f0d8bb5d11636974285bd0cd877056b52c0f4c0cfddd82df4559d1622c1d8622a5ce3ad78dca8dc7e94a93f8284f5e8df383badd0d2bd1"
+
+[update]
+[update.modrinth]
+mod-id = "EJYNkYPJ"
+version = "bJ1gmvnK"
