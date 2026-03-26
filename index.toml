@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "d306e869837927002dcaa18b8b92465b11de8efcd44f531a9cef6f3975b00810"
+hash = "05e81caff9991de8ef78930791066c52ad1a0273d80a3e91896305186bc6927a"
 metafile = true
 
 [[files]]
@@ -295,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0df092a3ac1e9d5c9500814f90d30f43ab50803c2632ad29059be48d9ed2e502"
+hash = "1a672734549cae5b15acbbe57ce38b9f52de712a8d794584fb6132e8180417c4"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
+hash = "0b90f460657ba15bd72a43aaffaec196272d8a49316c0dd45bb8d2430d520603"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/focalworks.pw.toml"
-hash = "54fd27287428c9203997fe6974d179fe52e7f6a942be38d61392df236f1c149c"
+hash = "f03065762d1affb52f704b8f8e856e687224de554362083e6c942022e705ca38"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "c7d8a046da68799538d1f5c510e5e92edc5cc80275e105086fa08f0086cb6287"
+hash = "aa2675d0d4b4cbf065bbcd72350907624a7734452b91805468276284422b1e6f"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "ac3aecaa7398c0b9dcb46abdaa1826562ea1494de43c740b6c7a8d5abd139420"
+hash = "a7d05265861381dd5dce1e9d9440c9cf0e2b5fc1799c6ade852cccd48ea0ae6c"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "ebb4088115a98bd1030774ee8763f06c69cc87ce7f1378562b1f2df2df3a38c2"
+hash = "b99a69c08010b5c0f67afc30e7d843ae8016a14f2ec0bb2a0116d4b316a79e56"
 metafile = true
 
 [[files]]
@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "0d608641fb74c095ffebacfe63be50e66b575a8005a9ca04a44cb91ebb862ed0"
+hash = "4f46377ebc6650fa48b7f775991f3a1d7302be65f878dc364aa8150f0e1311b9"
 metafile = true
 
 [[files]]
@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaha.pw.toml"
-hash = "e24a5fed62f1384ed10c94c86c49be62788c01ae48c3d483a16ed9c0a0be071c"
+hash = "a32bfa78f9cd1ad337fa6782a1d00e01b442a861d111714115ae2a4b949fa4c7"
 metafile = true
 
 [[files]]
