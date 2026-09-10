@@ -120,6 +120,10 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/complexhex-fabric-1.20.1-0.1.6-beta-d433a18.jar"
+hash = "bb9299781f1d12148f3836646bfb0a9f5477f57d24e611ee6323ddd0ddfa204d"
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "02e4f1342a25791634a39ae7d56c81e807ff09c4c75db4af963678ac91a69a14"
 metafile = true
@@ -163,6 +167,10 @@ metafile = true
 file = "mods/eating-animation.pw.toml"
 hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
+
+[[files]]
+file = "mods/efhexs-1.0.0-20dbe0d.jar"
+hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
 [[files]]
 file = "mods/emi.pw.toml"
@@ -235,6 +243,10 @@ hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
 
 [[files]]
+file = "mods/hexcassettes-2.0.0-d8db411.jar"
+hash = "8c576f46cf2e8dbf7b61a1faacef7ca080130a6491a0508019ae1b8abe56a0f6"
+
+[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "006076b33c06c9283dc8a20971a25308ea8f2e60a5702c40fa96a8eeed1722af"
 metafile = true
@@ -253,6 +265,10 @@ metafile = true
 file = "mods/hexic.pw.toml"
 hash = "58bb0050d374f3dd1b3f65f4dbf415b1616b58cc1d38111fcfc007e98557daf7"
 metafile = true
+
+[[files]]
+file = "mods/hexical-2.0.0-e0d7ef9.jar"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexintent.pw.toml"
@@ -395,6 +411,14 @@ hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
 metafile = true
 
 [[files]]
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
+
+[[files]]
+file = "mods/overevaluate-1.0.0-b220e5e.jar"
+hash = "d506ec4b453cd980d95faf56f8d01149e4959c7c61fa99217c74789473964e45"
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
@@ -458,6 +482,10 @@ metafile = true
 file = "mods/scribble.pw.toml"
 hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
+
+[[files]]
+file = "mods/scryglass-1.0.0-6c096fb.jar"
+hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
 
 [[files]]
 file = "mods/sdlink.pw.toml"
